@@ -27,7 +27,7 @@ I'm a Product Manager at Aviso AI, where I lead Agentic workflows, Activity & Re
 
 | Project | Domain | What It Does | Stack |
 |---------|--------|-------------|-------|
-| Leading Indicator Agent | Revenue Execution | Reads sales activity signals to spot pipeline growth, deal momentum and risk, then recommends and runs actions | FastAPI, Celery, React, Composio |
+| Proactive Sales Activity Manager | Revenue Execution | Reads sales activity signals to spot pipeline growth, deal momentum and risk, then recommends and runs actions | FastAPI, Celery, React, Composio |
 | Persistent Agents | RevOps AI | Long-running revenue agents with memory per account, deal, period and rep | Next.js, Claude AI |
 | Grounded RevOps | RevOps AI | Autonomous RevOps agent prototype where every recommendation is grounded in source data | Next.js, shadcn/ui, Claude AI |
 | Mutual Action Plan Workspace | Account Engagement | Mutual action plans, buyer microsite builder, AI account plan and agent inbox in one workspace | Next.js, FastAPI |
