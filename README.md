@@ -1,6 +1,6 @@
 # Hi, I'm Raghavendra K V 👋
 
-**Senior Product Manager | AI Revenue Intelligence | B2B Sales Products**
+** Product Leader | AI | Revenue Intelligence | Enterprise Products **
 
 > I build products that make sales teams smarter — from CRM signal layers to AI-powered deal intelligence. 10+ years of building, consulting, and shipping for B2B sales orgs.
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Senior Product Manager at Aviso AI, where I lead Activity & Relationship Intelligence, Account 360, and Contact 360 — the signal layers that help enterprise sales teams close faster and forecast with confidence. My background spans three modes of working: product practitioner building sales intelligence tools, management consultant at Accenture's Customers & Channels practice helping Fortune 500 companies transform their sales operations, and solution consultant at Aviso AI demonstrating revenue intelligence to enterprise buyers. I hold a PGDM from Xavier Institute of Management & Entrepreneurship and completed Stanford University's Product Management in the AI Era program. I use Claude AI to vibe-code GTM tools that demonstrate the domain depth I've built over a decade in B2B sales products — starting with GTM Pulse. Based in Bengaluru, India — open to Senior PM roles in B2B SaaS, Revenue Intelligence, or AI-native product companies.
+I'm a Product Manager at Aviso AI, where I lead Agentic workflows, Activity & Relationship Intelligence, Account 360, and Contact 360 — the signal layers that help enterprise sales teams close faster and forecast with confidence. My background spans three modes of working: product practitioner building sales intelligence tools, management consultant at Accenture's Customers & Channels practice helping Fortune 500 companies transform their sales operations, and solution consultant at Aviso AI demonstrating revenue intelligence to enterprise buyers. I hold a PGDM from Xavier Institute of Management & Entrepreneurship and completed Stanford University's Product Management in the AI Era program. I use Claude AI to vibe-code GTM tools that demonstrate the domain depth I've built over a decade in B2B sales products — starting with GTM Pulse. Based in Bengaluru, India — open to Senior PM roles in B2B SaaS, Revenue Intelligence, or AI-native product companies.
 
 ---
 
